@@ -32,4 +32,4 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
 ## Result :
-
+Thus the program was executed sucessfully and got the output.
